@@ -1,0 +1,144 @@
+p{
+    text-align: center;
+
+   margin-bottom: 0px;
+    color: #BFA181;
+    
+}
+.seat1{
+    display:inline-block;
+    height:35px;
+    width: 35px;
+    background-color: white;
+    border-color:#8E0D3C;
+    border-width: 2px;
+    margin-bottom: 20px;
+    margin-left: 30px;
+    margin-right: 0px;
+    box-shadow: 0 0 40px #8E0D3C;
+}
+
+
+
+.container{
+
+    background-color: #1D1842;
+   
+}
+.alpha1{
+    display:inline-block;
+    margin-right: 270px;
+  
+   
+}
+.alpha2{
+    display:inline-block;
+    margin-right: 270.89px;
+  
+   
+}
+.alpha3{
+    display:inline-block;
+    margin-right: 230.89px;
+
+   
+}
+.alpha4{
+    display:inline-block;
+    margin-right: 230px;
+
+   
+}
+.alpha5{
+    display:inline-block;
+    margin-right: 231.78px;
+}
+.alpha6{
+    display:inline-block;
+    margin-right: 232.65px;
+
+   
+}
+.alpha7{
+    display:inline-block;
+    margin-right: 200px;
+
+   
+}
+.alpha8{
+    display:inline-block;
+    margin-right: 206.23px;
+
+   
+}
+.alpha9{
+    display:inline-block;
+    margin-right: 205.33px;
+
+   
+}
+.alpha10{
+    display:inline-block;
+    margin-right: 201.78px;
+
+   
+}
+.alpha11{
+    display:inline-block;
+    margin-right: 197.33px;
+
+   
+}
+
+.s1{
+    display: inline-block;
+}
+.s2{
+    display: inline-block;
+}
+.s3{
+    display: inline-block;
+}
+ 
+
+button{
+    color:#8E0D3C;
+}
+.screen{
+    margin-left: 332px;
+    height:25px;
+    width:700px;
+background-color: aqua;
+   text-align: center;
+    margin-top:75px;
+   box-shadow: 0 0 40px aqua;
+    color: #1D1842;
+}
+#OK{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 630px;
+    HEIGHT:40px;
+    width:100px;
+    background-color: green;
+    margin-top: 20px;
+    color: black;
+    
+}
+.PAY{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 630px;
+    HEIGHT:40px;
+    width:100px;
+    background-color: rgb(199, 75, 199);
+    margin-top: 10px;
+    color: black;
+    
+
+}
+#count{
+    color: black;
+}
